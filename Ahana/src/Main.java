@@ -3,7 +3,7 @@
 public class Main {
     public static void main(String[] args) {
         final String COMPANY_NAME= "Neso Academy";
-        System.out.println("This is version 3 update");
+        System.out.println("This is version 4 update");
         System.out.println(COMPANY_NAME);
     }
 }
